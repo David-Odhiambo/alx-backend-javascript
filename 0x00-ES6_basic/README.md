@@ -1,1 +1,1 @@
-ES6 is the current javascript version
+ES6 is the current javascript version. 
