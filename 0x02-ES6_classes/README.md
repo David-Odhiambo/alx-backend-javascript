@@ -1,1 +1,1 @@
-JS classes
+Classes in JS
